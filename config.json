@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user": "shivamvats4321@gmail.com",
+    "gmail-password": "svpsb1234",
+    "about_text": "In this website we have written the backend code in python using flask and for the front end of the website we have used bootstrap , css and html.\nA various number of modules of flask has been used by us in this project.\nFurther it is connected to the database (phpmyadmin) and we also linked some details with our personal gmail account.\n",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"shivam",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\shivam\\oops final\\static"
+  }
+}
